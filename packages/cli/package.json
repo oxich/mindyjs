@@ -13,6 +13,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxich/mindyjs.git"
+  },
   "author": "",
   "license": "ISC",
   "gitHead": "e1c8c5a72e7fe7b131a7af8befe0c406b79394c8"
