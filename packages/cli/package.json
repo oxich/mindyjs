@@ -1,0 +1,15 @@
+{
+  "name": "@mindyjs/cli",
+  "version": "0.0.2-alpha.0",
+  "description": "",
+  "main": ".bin/index.js",
+  "type": "module",
+  "bin": {
+    "mindyjs": ".bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
