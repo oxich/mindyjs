@@ -1,0 +1,51 @@
+{
+  "name": "@mindyjs/mdui",
+  "version": "0.0.0",
+  "description": "React ui components Library",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@storybook/addon-actions": "^6.5.12",
+    "@storybook/addon-essentials": "^6.5.12",
+    "@storybook/addon-interactions": "^6.5.12",
+    "@storybook/addon-links": "^6.5.12",
+    "@storybook/addon-postcss": "^2.0.0",
+    "@storybook/builder-webpack4": "^6.5.12",
+    "@storybook/manager-webpack4": "^6.5.12",
+    "@storybook/react": "^6.5.12",
+    "@storybook/testing-library": "^0.0.13",
+    "autoprefixer": "^10.4.12",
+    "babel-loader": "^8.2.5",
+    "parcel": "latest",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oxich/mindyjs/packages/mdui.git"
+  },
+  "keywords": [
+    "react",
+    "storybook",
+    "component",
+    "library"
+  ],
+  "author": "Jamal Eddine Naamani <jamalmatic@gmail.com>",
+  "license": "MIT"
+}
