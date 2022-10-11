@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oxich/mindyjs/packages/icons"
+    "url": "https://github.com/oxich/mindyjs/tree/main/packages/icons"
   },
-  "homepage": "",
+  "homepage": "https://github.com/oxich/mindyjs/blob/main/packages/icons/README.md",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
