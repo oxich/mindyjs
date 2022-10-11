@@ -11,7 +11,12 @@
     "build": "parcel build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react", "svg", "icons", "Remixicons"],
+  "keywords": [
+    "react",
+    "svg",
+    "icons",
+    "Remixicons"
+  ],
   "author": "Jamal Eddine Naamani <jamalmatic@gmail.com>",
   "publishConfig": {
     "access": "public"
@@ -25,5 +30,8 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
   }
 }
