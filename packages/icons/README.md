@@ -1,3 +1,6 @@
+<div style="text-align: center;"> <img src="https://raw.githubusercontent.com/oxich/mindyjs/main/assets/mindyjs-logo-250x52.png" alt="Mindyjs logo">
+</div>
+
 # Mindyjs React Icons @mindyjs/icons
 [![npm](https://img.shields.io/npm/v/@mindyjs/icons?color=blue&logo=mindyjs&style=flat-square)](https://www.npmjs.com/package/@mindyjs/icons) [![npm](https://img.shields.io/npm/dt/@mindyjs/icons?style=flat-square)](https://www.npmjs.com/package/@mindyjs/icons)
 

@@ -1,4 +1,6 @@
-# [Mindyjs](https://github.com/oxich/mindyjs)
+<div style="text-align: center;"> <img src="https://raw.githubusercontent.com/oxich/mindyjs/main/assets/mindyjs-logo-250x52.png" alt="Mindyjs logo">
+</div>
+# <img src="https://raw.githubusercontent.com/oxich/mindyjs/main/assets/mindyjs-icon-32x32.png" alt="Mindyjs Logo Icon"> [Mindyjs](https://github.com/oxich/mindyjs)
 
 > 🎯 Our **vision ⇒** is to develop a monorepo, made up of a set of smart packages and tools. to make our daily lives more productive.
 > 
