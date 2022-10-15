@@ -33,5 +33,21 @@
   },
   "devDependencies": {
     "parcel": "^2.7.0"
-  }
+  },
+  "funding": [
+    {
+      "type" : "github",
+      "url" : "https://github.com/sponsors/jamalmatic/"
+    },
+    {
+      "type" : "paypal",
+      "url" : "https://paypal.me/jamalmatic/"
+    },
+    {
+      "type" : "Patreon",
+      "url" : "https://www.patreon.com/jamalmatic"
+    }
+    
+  ]
+  
 }
