@@ -14022,7 +14022,7 @@ export const RiCheckLine = ({as="svg", ...props}) => {
         )
     }
 export const RiCheckboxBlankCircleFill = ({as="svg", ...props}) => {
-        const Tag = `${as}`
+        const Tag = `${as}` 
         return (
             <>
                 {as != "svg" ? 
@@ -14034,10 +14034,7 @@ export const RiCheckboxBlankCircleFill = ({as="svg", ...props}) => {
                         height="24"
                     >
                         <path fill="none" d="M0 0h24v24H0z"/>
-                        <path 
-                            fill="currentColor" 
-                            le cx="12" cy="12" r="10"
-                        />
+                        <circle fill="currentColor" cx="12" cy="12" r="10"/>
                     </svg>
                 </Tag>
                 :
@@ -14049,10 +14046,7 @@ export const RiCheckboxBlankCircleFill = ({as="svg", ...props}) => {
                     {...props}
                 >
                     <path fill="none" d="M0 0h24v24H0z"/>
-                    <path 
-                        fill="currentColor" 
-                        le cx="12" cy="12" r="10"
-                    />
+                    <circle fill="currentColor" cx="12" cy="12" r="10"/>
                 </svg>
                 }
             </>
