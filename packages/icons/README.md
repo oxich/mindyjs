@@ -77,7 +77,7 @@ work in progress ...
 - @mindyjs/icons are open-sourced ([MIT](https://github.com/oxich/mindyjs/blob/main/packages/icons/LICENSE.md))
 - Remix Icons are open-sourced ([Apache License 2.0](https://github.com/Remix-Design/RemixIcon/blob/master/License)).
 
-## Collaborators
+## Collaborators 
 
 - [@jamalmatic](https://github.com/jamalmatic)
 
