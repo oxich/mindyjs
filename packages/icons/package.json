@@ -1,6 +1,6 @@
 {
   "name": "@mindyjs/icons",
-  "version": "0.2.0",
+  "version": "0.1.9",
   "description": "React implementation for the popular Remixicons open source library",
   "source": "src/index.ts",
   "main": "dist/main.js",
@@ -8,7 +8,7 @@
   "types": "dist/types.d.ts",
   "scripts": {
     "watch": "parcel watch",
-    "build": "parcel build",
+    "build": "rimraf dist && parcel build --no-optimize",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
