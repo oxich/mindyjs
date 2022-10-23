@@ -1,6 +1,6 @@
 {
   "name": "@mindyjs/icons",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "React implementation for the popular Remixicons open source library",
   "source": "src/index.ts",
   "main": "dist/main.js",
