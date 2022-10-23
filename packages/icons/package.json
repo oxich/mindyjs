@@ -8,7 +8,7 @@
   "types": "dist/types.d.ts",
   "scripts": {
     "watch": "parcel watch",
-    "build": "rimraf dist && parcel build --no-optimize",
+    "build": "rimraf dist && parcel build --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
